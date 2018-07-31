@@ -11,7 +11,6 @@ from gtts import gTTS
 ke = LINETCR.LINE()
 ke.login(token='EvUHPxP02dkveJgFnlne.3gYgoFqhnGt2d8T4Rxr4pG.2a8ZROltuctJFdVU5mSIX+R/SSiLccgjEXQSYG4+8tI=')
 
-
 ki = LINETCR.LINE()
 ki.login(token='EvUHPxP02dkveJgFnlne.3gYgoFqhnGt2d8T4Rxr4pG.2a8ZROltuctJFdVU5mSIX+R/SSiLccgjEXQSYG4+8tI=')
 				 
@@ -222,8 +221,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Smid]
-admin = ["u58714149295f212f741f18624cbba58d","ube297e99e4fe2065c2895823a0022616","ufe4be13b976a5dfcadb6ffda86175907"]
-owner = ["u58714149295f212f741f18624cbba58d","ufe4be13b976a5dfcadb6ffda86175907","ube297e99e4fe2065c2895823a0022616"]
+admin = ["ufdc20b3a00b5e8f31e4f91017eb361b0","ube297e99e4fe2065c2895823a0022616","ufe4be13b976a5dfcadb6ffda86175907"]
+owner = ["ufdc20b3a00b5e8f31e4f91017eb361b0","ufe4be13b976a5dfcadb6ffda86175907","ube297e99e4fe2065c2895823a0022616"]
 wait = {
     'contact':False,
     'autoJoin':True,
